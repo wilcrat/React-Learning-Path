@@ -4,7 +4,7 @@ export default function addTwo(a, b) {
 
 /*or 
 
-function addTwo(a, b) {
+function addTwo(a, b) { 
     console.log(a + b);
 }
 

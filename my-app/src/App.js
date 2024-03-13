@@ -1,10 +1,9 @@
 function Header() {
-  return <h1>React ComponentS</h1>;
+  return <h1>React Component</h1>;
 }
 function SubHeader() {
   return <b>I'm Creating React Components</b>;
 }
-
 function App() {
   return (
     <div className="App">
